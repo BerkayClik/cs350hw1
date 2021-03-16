@@ -1,0 +1,1 @@
+cmd_/home/berkay/Desktop/cs350_hw1_s015203/hello_driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/berkay/Desktop/cs350_hw1_s015203/hello_driver.ko /home/berkay/Desktop/cs350_hw1_s015203/hello_driver.o /home/berkay/Desktop/cs350_hw1_s015203/hello_driver.mod.o;  true

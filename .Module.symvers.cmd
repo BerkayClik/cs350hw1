@@ -1,0 +1,1 @@
+cmd_/home/berkay/Desktop/cs350_hw1_s015203/Module.symvers := sed 's/ko$$/o/' /home/berkay/Desktop/cs350_hw1_s015203/modules.order | scripts/mod/modpost -m -a   -o /home/berkay/Desktop/cs350_hw1_s015203/Module.symvers -e -i Module.symvers   -T -
